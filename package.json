@@ -1,0 +1,11 @@
+{
+  "name": "TestTask",
+  "version": "1.0.0",
+  "url": "https://github.com/AlexandrTalala/EPAM-Task",
+
+  "author": {
+    "name": "Alexandr Talala",
+    "email": "alexxkonotop@gmail.com",
+    "url": "https://github.com/AlexandrTalala"
+  }
+}
